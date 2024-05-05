@@ -1,0 +1,23 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "node-emails",
+    "dateExported": "2023-10-27T20:03:41.209Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "dab41de5-3d81-44d2-ab91-4fbcf5ee1685",
+            "colId": "305ba329-ba88-4e0b-90fb-d60aed0c80c2",
+            "containerId": "",
+            "name": "Send Email",
+            "url": "http://localhost:3000/mail",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-10-27T18:43:41.749Z",
+            "modified": "2023-10-27T20:02:17.796Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
